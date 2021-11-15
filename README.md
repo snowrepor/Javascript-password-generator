@@ -25,7 +25,6 @@ A generate button will send the user a series of prompts. After user data is col
 
 ### Click or Copy and Paste the link below into preferred browser to see the full password generator! 
 
-
 https://snowrepor.github.io/Javascript-password-generator/
 
 <a name="usage"></a>
