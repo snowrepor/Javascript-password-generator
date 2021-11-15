@@ -33,11 +33,11 @@ https://snowrepor.github.io/Javascript-password-generator/
 
 ### Order of operations to generate a password.
 
-Follow prompts after clicking the Generate Password button:
+User will follow prompts after clicking the "Generate Password" button:
 
 ![nav-menu](./assets/images/img3.JPG?raw=true "Navigational Menu")
 
-Password length.
+User selects password length.
 
 ![nav-menu](./assets/images/img4.JPG?raw=true "Navigational Menu")
 

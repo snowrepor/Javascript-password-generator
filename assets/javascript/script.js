@@ -123,8 +123,8 @@ function generatePassword() {
     UserInput(ps);
     return ps;
 }
-// This puts the password value into the textbox
-// Changed function input to use textcontent
+// This puts the password value into the text box
+// Changed function input to use text content
 function UserInput(ps) {
     document.getElementById("password").textContent = ps;
 
