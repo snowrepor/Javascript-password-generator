@@ -34,11 +34,7 @@ https://snowrepor.github.io/Javascript-password-generator/
 
 ### Order of operations to generate a password.
 
-Fallow prompts after clicking the Generate Password button:
-
-![nav-menu](./assets/images/img2.JPG?raw=true "Navigational Menu")
-
-This textarea will display the users password once it is generated.
+Follow prompts after clicking the Generate Password button:
 
 ![nav-menu](./assets/images/img3.JPG?raw=true "Navigational Menu")
 
